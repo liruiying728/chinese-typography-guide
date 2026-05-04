@@ -1,5 +1,7 @@
 # 中文与多语言产品排版指南
 
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 > 不仅仅是加空格 —— 一份面向中文与多语言数字产品的排版与国际化工程实践指南。
 >
 > *More than just adding spaces — a practical typography & i18n guide for Chinese and multilingual digital products.*
@@ -9,6 +11,8 @@
 - **作者**：[@liruiying728](https://x.com/liruiying728)
 - **联系**：liruiying728@gmail.com
 - **最近更新**：2026.05.04
+
+如果这份文档对你有帮助，欢迎点 Star ⭐ — 这是对我最好的鼓励。
 
 ---
 
@@ -26,14 +30,23 @@
 >
 > 文中存在部分特殊字符，可能因设备字体支持情况不同，出现豆腐块或留空，属正常现象。
 
-# 排版规则
+# 目录
 
-排版的灵魂不仅仅在于字符间的呼吸感，更在于其在多语言系统中的严谨性与兼容性。本文档围绕四个维度展开，共九个章节：
-
-- 视觉节奏：空格的使用、文字格式；
-- 符号规范：标点符号、避头尾禁则；
-- 文本质量：正确书写、准确表达、约定俗成的用法辨析；
-- 工程实现：文本方向、横书竖书、语义化标签与 CSS 逻辑属性。
+- [前言](#前言)
+- [面向受众](#面向受众)
+- [图形说明](#图形说明)
+- [一、空格的使用](#一空格的使用)
+- [二、标点符号](#二标点符号)
+- [三、正确书写](#三正确书写)
+- [四、正确表达](#四正确表达)
+- [五、约定俗成的错误表达](#五约定俗成的错误表达)
+- [六、文字格式](#六文字格式)
+- [七、文本方向](#七文本方向)
+- [八、横书竖书](#八横书竖书)
+- [九、技术实现](#九技术实现)
+- [最后](#最后)
+- [参考与引用](#参考与引用)
+- [许可证](#许可证)
 
 # 面向受众
 
@@ -1319,3 +1332,11 @@ body {
 - [纵书与横书 - 维基百科](https://zh.wikipedia.org/wiki/%E7%B8%B1%E6%9B%B8%E8%88%87%E6%A9%AB%E6%9B%B8)
 - [2020 W3C Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/#introduction)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
+# 许可证
+
+本文档采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可证。
+
+你可以自由地转载、修改、引用和商业使用本文档内容，但需要 **署名** 原作者并标明许可证链接。
+
+Copyright (c) 2026 Li Ruiying
