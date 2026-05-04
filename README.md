@@ -491,7 +491,7 @@ Bill Gates (比尔·盖茨) is an American business magnate.
 
 ## 中文句子内夹有英文书籍名、报刊名时，不应借用中文书名号，应以英文斜体表示
 
-不单单是英文书名、报刊名，还有英文歌曲、文章标题等，更多信息可查阅 [夹用英文的中文文本的标点符号用法(草案)](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113092346124.pdf)。
+不单单是英文书名、报刊名，还有英文歌曲、文章标题等，更多信息可查阅 [夹用英文的中文文本的标点符号用法（草案）](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113092346124.pdf)。
 
 🟠 不推荐
 
@@ -1330,8 +1330,8 @@ body {
 - [RTL - 维基百科](https://en.wikipedia.org/wiki/Right-to-left_script)
 - [双向文稿 - 维基百科](https://zh.wikipedia.org/wiki/%E9%9B%99%E5%90%91%E6%96%87%E7%A8%BF)
 - [纵书与横书 - 维基百科](https://zh.wikipedia.org/wiki/%E7%B8%B1%E6%9B%B8%E8%88%87%E6%A9%AB%E6%9B%B8)
-- [2020 W3C Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/#introduction)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [2020 W3C Requirements for Chinese Text Layout](https://www.w3.org/TR/clreq/#introduction)
 
 # 许可证
 
@@ -1339,4 +1339,4 @@ body {
 
 你可以自由地转载、修改、引用和商业使用本文档内容，但需要 **署名** 原作者并标明许可证链接。
 
-Copyright (c) 2026 Li Ruiying
+Copyright (c) 2026 [Li Ruiying](https://www.ruiying.li/)
